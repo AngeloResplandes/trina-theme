@@ -1,0 +1,23 @@
+{
+    "name": "trina-theme",
+    "displayName": "Trina Theme",
+    "description": "Trina Theme – A minimalistic dark theme with soft purple tones",
+    "publisher": "AngeloResplandes",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.102.0"
+    },
+    "icon": "images/icon.png",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Trina Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Trina Theme-color-theme.json"
+            }
+        ]
+    }
+}
