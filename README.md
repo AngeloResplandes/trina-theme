@@ -5,16 +5,16 @@ Trina Theme is a sleek, dark, and modern theme for Visual Studio Code. It brings
 ## Preview
 
 ### Javascript
-<img src="https://raw.githubusercontent.com/AngeloResplandes/trina-theme/refs/heads/main/images/Javascript.png" width="80%"/>
+<img src="https://i.imgur.com/JXEMJkK.png" width="80%"/>
 
 ### Typescript
-<img src="https://raw.githubusercontent.com/AngeloResplandes/trina-theme/refs/heads/main/images/Typescript.png" width="80%"/>
+<img src="https://i.imgur.com/UlVGC6g.png" width="80%"/>
 
 ### HTML5
-<img src="https://raw.githubusercontent.com/AngeloResplandes/trina-theme/refs/heads/main/images/Html.png" width="80%"/>
+<img src="https://i.imgur.com/E8yRjME.png" width="80%"/>
 
 ### CSS3
-<img src="https://raw.githubusercontent.com/AngeloResplandes/trina-theme/refs/heads/main/images/Css.png" width="80%"/>
+<img src="https://i.imgur.com/IT3OuIJ.png" width="80%"/>
 
 ## Features
 
