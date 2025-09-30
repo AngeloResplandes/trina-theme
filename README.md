@@ -1,4 +1,4 @@
-# Trina Theme
+# 🪻 Trina Theme
 
 Trina Theme is a sleek, dark, and modern theme for Visual Studio Code. It brings a calm yet vibrant development experience by blending deep purples, soft whites, and vibrant pinks and greens — perfect for late-night coding or a focused workflow.
 
